@@ -1,0 +1,41 @@
+.p{  
+    border: 1px solid red ;
+    background-color: white;
+    color: blue;
+    padding: 10px;
+    text-align: center;
+    direction: rtl;
+    /* unicode-bidi: bidi-override; */
+    text-transform: capitalize;
+    text-indent: 200px;
+    text-shadow: 1px 1px 6px red;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    
+    
+
+}
+.q{
+    color: brown;
+    text-align: center;
+    /* vertical-align: baseline; */
+    text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: double;
+  text-decoration-thickness: 5px;
+  text-shadow: 2px 2px 5px black, 0px 0px 3px blue;
+  font-size: xx-large;
+  font-family: brush script;
+}
+.r{
+    color: blueviolet;
+    text-align: end;
+    text-decoration-color: red;
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+    text-shadow:   1px 1px 10px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

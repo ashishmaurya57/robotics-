@@ -1,0 +1,35 @@
+
+
+
+
+.textform{
+    padding: 20px;
+    height: 300px;
+    width: 500px;
+    background-color: rgb(253, 96, 96);
+    margin: 0px auto;
+    /* box-shadow: ; */
+    border: 2px solid rgb(238, 102, 102);
+    border-radius: 2px;
+}
+.p{
+    outline: 5px dashed green;
+    padding: 20px;
+    
+    
+}
+.q{
+    /* background-color: goldenrod; */
+    padding: 20px;
+
+}
+button{
+    width: 400px;
+    height: 30px;
+    background-color: aqua;
+    border: 2px solid greenyellow;
+    border-radius: 13px;
+}
+butto:hover{
+    background-color: blue;
+}
